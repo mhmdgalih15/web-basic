@@ -1,0 +1,110 @@
+.container{
+    width: 100%;
+    text-align: ;
+    padding: 10px;
+   
+
+}
+ 
+.header{
+    text-align: left;
+    margin-top: 20px;
+}
+
+.navigation{
+    width: 100%;
+}
+
+.navigation li{
+    cursor: pointer;
+    margin-right: 20px;
+    height: 30px;
+}
+
+.navigation li a{
+    color: darkseagreen;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.navigation li:hover a{
+    color: khaki;
+}
+
+.navigation ul{
+    margin-block-start: 0px;
+    margin-inline-end: 0px;
+}
+
+ul li{
+    height: 0px;
+    display: inline-block;
+    padding: 6px;
+}
+
+ul{
+    background-color:rgb(11, 85, 17);
+    margin: 30px;
+    border-radius: 6px;
+}
+
+li{
+
+}
+a{
+    text-decoration: none;
+}
+
+.content .content-left{
+    width: 600px;
+    height: 50%;
+    background-color: white;
+    float: none;
+    display: inline-block;
+}
+
+.footer{
+    width: 100%;
+    height: 30px;
+    text-align: center;
+    margin: 0px;
+    background-color: tomato;
+}
+#fixed-header{
+    height: 40px;
+    width: 100%;
+    background-color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    box-shadow: 0px 0px 5px grey;
+}
+#header-title{
+    margin-top: 40px;
+    
+
+}
+    
+
+
+
+.content-top-text{
+    margin-top: 4px;
+    font-size: 18px;
+    font-weight: 6px;
+    
+}
+
+.content-top-item{
+    width: 19%;
+    float: left;
+    margin-right: 8px;
+    margin-bottom: 40px;
+}
+
+.content-top-image{
+  padding: 15px;
+  float: left;
+}
+
